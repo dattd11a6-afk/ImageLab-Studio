@@ -1,0 +1,17 @@
+# Cache và file tạm của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo
+venv/
+.venv/
+env/
+
+# Cấu hình IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# File hệ thống rác của hệ điều hành
+.DS_Store
+Thumbs.db
